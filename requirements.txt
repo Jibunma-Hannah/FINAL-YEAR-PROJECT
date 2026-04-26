@@ -1,0 +1,8 @@
+#download requirements
+fastapi
+uvicorn
+gradio
+requests
+pydantic
+python-dotenv 
+
